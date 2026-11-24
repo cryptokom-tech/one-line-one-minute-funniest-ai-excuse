@@ -1,0 +1,4 @@
+kit/
+transcripts/
+*.tar.gz
+__pycache__/
